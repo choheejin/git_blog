@@ -5,4 +5,4 @@
 ## Q & A
 
 * [INFRA](q-and-a/infra/README.md)
-  * [로드밸런싱](q-and-a/infra/undefined.md)
+  * [로드밸런싱](q-and-a/infra/로드밸런싱.md)
