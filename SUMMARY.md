@@ -11,3 +11,8 @@
 
 * [혼자 공부하는 컴퓨터 구조 + 운영체제](study/+/README.md)
   * [4장 CPU의 작동 원리](study/+/4-cpu.md)
+
+## extra
+
+* [2025년](extra/2025/README.md)
+  * [5월 회고](extra/2025/5.md)
