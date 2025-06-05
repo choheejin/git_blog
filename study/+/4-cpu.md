@@ -8,7 +8,7 @@
 
 ### ALU
 
-![ALU가 받아들이고 내보는 정보](../../.gitbook/assets/image.png)
+![ALU가 받아들이고 내보는 정보](<../../.gitbook/assets/image (1).png>)
 
 ALU가 받아들이고 내보는 정보
 
@@ -30,7 +30,7 @@ ALU가 받아들이고 내보는 정보
 
 ### 제어장치
 
-![제어장치가 받아들이고 내보내는 정보](<../../.gitbook/assets/image (1).png>)
+![제어장치가 받아들이고 내보내는 정보](<../../.gitbook/assets/image (1) (1).png>)
 
 제어장치가 받아들이고 내보내는 정보
 
